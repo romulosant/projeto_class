@@ -1,0 +1,15 @@
+{
+    "name": "romulo/bliblioteca",
+    "description": "nossa bliblioteca oop",
+    "autoload": {
+        "psr-4": {
+            "Romulo\\Bliblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "romulo"
+        }
+    ],
+    "require": {}
+}
